@@ -11,6 +11,9 @@
 }
 
 #wall .parent #tag-4 {
+  background: green;
+  font-family: Trebuchet MS;
+  font-size: 20px;
   display: none;
 }
 
