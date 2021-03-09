@@ -11,6 +11,11 @@
 }
 
 #wall .parent #tag-4 {
+  background: green;
+  background-color: red;
+  font-family: Tahoma;
+  font-size: 12px;
+  margin-bottom: 0px;
   display: none;
 }
 
